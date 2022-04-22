@@ -4,6 +4,7 @@ def calcpi(limit): #establishes a named function to calculate pi to a certain nu
 
   
   q, r, t, k, n, l = 1, 0, 1, 1, 3, 3
+#adding a line for test
 
   decimal = limit
   counter = 0
